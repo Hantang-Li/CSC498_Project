@@ -1,5 +1,5 @@
 # CSC498_Project
-The Final project For CSC498
+The Final project For CSC498 Introduction to Reinforcement Learning
 
 Original Environment:https://github.com/ekorudiawan/gym-robot-arm.git
 
